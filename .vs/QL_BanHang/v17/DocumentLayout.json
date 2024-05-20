@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VISUALCODE\\QL_BanHang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F02044BC-E466-4A87-9AA3-BA58C9680B1C}|QL_BanHang.csproj|d:\\visualcode\\ql_banhang\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02044BC-E466-4A87-9AA3-BA58C9680B1C}|QL_BanHang.csproj|solutionrelative:dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02044BC-E466-4A87-9AA3-BA58C9680B1C}|QL_BanHang.csproj|d:\\visualcode\\ql_banhang\\sigin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02044BC-E466-4A87-9AA3-BA58C9680B1C}|QL_BanHang.csproj|solutionrelative:sigin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02044BC-E466-4A87-9AA3-BA58C9680B1C}|QL_BanHang.csproj|d:\\visualcode\\ql_banhang\\viewproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02044BC-E466-4A87-9AA3-BA58C9680B1C}|QL_BanHang.csproj|solutionrelative:viewproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02044BC-E466-4A87-9AA3-BA58C9680B1C}|QL_BanHang.csproj|d:\\visualcode\\ql_banhang\\viewproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F02044BC-E466-4A87-9AA3-BA58C9680B1C}|QL_BanHang.csproj|solutionrelative:viewproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02044BC-E466-4A87-9AA3-BA58C9680B1C}|QL_BanHang.csproj|d:\\visualcode\\ql_banhang\\userpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F02044BC-E466-4A87-9AA3-BA58C9680B1C}|QL_BanHang.csproj|solutionrelative:userpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02044BC-E466-4A87-9AA3-BA58C9680B1C}|QL_BanHang.csproj|d:\\visualcode\\ql_banhang\\updateproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F02044BC-E466-4A87-9AA3-BA58C9680B1C}|QL_BanHang.csproj|solutionrelative:updateproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02044BC-E466-4A87-9AA3-BA58C9680B1C}|QL_BanHang.csproj|d:\\visualcode\\ql_banhang\\updateproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02044BC-E466-4A87-9AA3-BA58C9680B1C}|QL_BanHang.csproj|solutionrelative:updateproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02044BC-E466-4A87-9AA3-BA58C9680B1C}|QL_BanHang.csproj|d:\\visualcode\\ql_banhang\\sigup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F02044BC-E466-4A87-9AA3-BA58C9680B1C}|QL_BanHang.csproj|solutionrelative:sigup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02044BC-E466-4A87-9AA3-BA58C9680B1C}|QL_BanHang.csproj|d:\\visualcode\\ql_banhang\\sigin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F02044BC-E466-4A87-9AA3-BA58C9680B1C}|QL_BanHang.csproj|solutionrelative:sigin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02044BC-E466-4A87-9AA3-BA58C9680B1C}|QL_BanHang.csproj|d:\\visualcode\\ql_banhang\\oder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02044BC-E466-4A87-9AA3-BA58C9680B1C}|QL_BanHang.csproj|solutionrelative:oder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02044BC-E466-4A87-9AA3-BA58C9680B1C}|QL_BanHang.csproj|d:\\visualcode\\ql_banhang\\oder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F02044BC-E466-4A87-9AA3-BA58C9680B1C}|QL_BanHang.csproj|solutionrelative:oder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02044BC-E466-4A87-9AA3-BA58C9680B1C}|QL_BanHang.csproj|d:\\visualcode\\ql_banhang\\userpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02044BC-E466-4A87-9AA3-BA58C9680B1C}|QL_BanHang.csproj|solutionrelative:userpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02044BC-E466-4A87-9AA3-BA58C9680B1C}|QL_BanHang.csproj|d:\\visualcode\\ql_banhang\\createproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02044BC-E466-4A87-9AA3-BA58C9680B1C}|QL_BanHang.csproj|solutionrelative:createproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02044BC-E466-4A87-9AA3-BA58C9680B1C}|QL_BanHang.csproj|d:\\visualcode\\ql_banhang\\createproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F02044BC-E466-4A87-9AA3-BA58C9680B1C}|QL_BanHang.csproj|solutionrelative:createproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02044BC-E466-4A87-9AA3-BA58C9680B1C}|QL_BanHang.csproj|d:\\visualcode\\ql_banhang\\createcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F02044BC-E466-4A87-9AA3-BA58C9680B1C}|QL_BanHang.csproj|solutionrelative:createcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02044BC-E466-4A87-9AA3-BA58C9680B1C}|QL_BanHang.csproj|d:\\visualcode\\ql_banhang\\adminpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F02044BC-E466-4A87-9AA3-BA58C9680B1C}|QL_BanHang.csproj|solutionrelative:adminpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbConnection.cs",
+              "DocumentMoniker": "D:\\VISUALCODE\\QL_BanHang\\DbConnection.cs",
+              "RelativeDocumentMoniker": "DbConnection.cs",
+              "ToolTip": "D:\\VISUALCODE\\QL_BanHang\\DbConnection.cs",
+              "RelativeToolTip": "DbConnection.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAIA7wCQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T00:38:44.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewProduct.cs",
+              "DocumentMoniker": "D:\\VISUALCODE\\QL_BanHang\\ViewProduct.cs",
+              "RelativeDocumentMoniker": "ViewProduct.cs",
+              "ToolTip": "D:\\VISUALCODE\\QL_BanHang\\ViewProduct.cs",
+              "RelativeToolTip": "ViewProduct.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwEQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T00:56:41.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewProduct.cs [Design]",
+              "DocumentMoniker": "D:\\VISUALCODE\\QL_BanHang\\ViewProduct.cs",
+              "RelativeDocumentMoniker": "ViewProduct.cs",
+              "ToolTip": "D:\\VISUALCODE\\QL_BanHang\\ViewProduct.cs [Design]",
+              "RelativeToolTip": "ViewProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T00:56:22.283Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateProduct.cs",
+              "DocumentMoniker": "D:\\VISUALCODE\\QL_BanHang\\UpdateProduct.cs",
+              "RelativeDocumentMoniker": "UpdateProduct.cs",
+              "ToolTip": "D:\\VISUALCODE\\QL_BanHang\\UpdateProduct.cs",
+              "RelativeToolTip": "UpdateProduct.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwBsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T00:53:29.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateProduct.cs [Design]",
+              "DocumentMoniker": "D:\\VISUALCODE\\QL_BanHang\\UpdateProduct.cs",
+              "RelativeDocumentMoniker": "UpdateProduct.cs",
+              "ToolTip": "D:\\VISUALCODE\\QL_BanHang\\UpdateProduct.cs [Design]",
+              "RelativeToolTip": "UpdateProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T00:52:49.947Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Sigup.cs [Design]",
+              "DocumentMoniker": "D:\\VISUALCODE\\QL_BanHang\\Sigup.cs",
+              "RelativeDocumentMoniker": "Sigup.cs",
+              "ToolTip": "D:\\VISUALCODE\\QL_BanHang\\Sigup.cs [Design]",
+              "RelativeToolTip": "Sigup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T00:52:21.75Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sigin.cs",
+              "DocumentMoniker": "D:\\VISUALCODE\\QL_BanHang\\Sigin.cs",
+              "RelativeDocumentMoniker": "Sigin.cs",
+              "ToolTip": "D:\\VISUALCODE\\QL_BanHang\\Sigin.cs",
+              "RelativeToolTip": "Sigin.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T00:47:21.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Sigin.cs [Design]",
+              "DocumentMoniker": "D:\\VISUALCODE\\QL_BanHang\\Sigin.cs",
+              "RelativeDocumentMoniker": "Sigin.cs",
+              "ToolTip": "D:\\VISUALCODE\\QL_BanHang\\Sigin.cs [Design]",
+              "RelativeToolTip": "Sigin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T00:46:49.437Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Oder.cs",
+              "DocumentMoniker": "D:\\VISUALCODE\\QL_BanHang\\Oder.cs",
+              "RelativeDocumentMoniker": "Oder.cs",
+              "ToolTip": "D:\\VISUALCODE\\QL_BanHang\\Oder.cs",
+              "RelativeToolTip": "Oder.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAqwHYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T00:46:34.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Oder.cs [Design]",
+              "DocumentMoniker": "D:\\VISUALCODE\\QL_BanHang\\Oder.cs",
+              "RelativeDocumentMoniker": "Oder.cs",
+              "ToolTip": "D:\\VISUALCODE\\QL_BanHang\\Oder.cs [Design]",
+              "RelativeToolTip": "Oder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T00:45:46.046Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserPage.cs",
+              "DocumentMoniker": "D:\\VISUALCODE\\QL_BanHang\\UserPage.cs",
+              "RelativeDocumentMoniker": "UserPage.cs",
+              "ToolTip": "D:\\VISUALCODE\\QL_BanHang\\UserPage.cs",
+              "RelativeToolTip": "UserPage.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA9wCAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T00:33:42.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserPage.cs [Design]",
+              "DocumentMoniker": "D:\\VISUALCODE\\QL_BanHang\\UserPage.cs",
+              "RelativeDocumentMoniker": "UserPage.cs",
+              "ToolTip": "D:\\VISUALCODE\\QL_BanHang\\UserPage.cs [Design]",
+              "RelativeToolTip": "UserPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T00:33:35.91Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateProduct.cs",
+              "DocumentMoniker": "D:\\VISUALCODE\\QL_BanHang\\CreateProduct.cs",
+              "RelativeDocumentMoniker": "CreateProduct.cs",
+              "ToolTip": "D:\\VISUALCODE\\QL_BanHang\\CreateProduct.cs",
+              "RelativeToolTip": "CreateProduct.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAtwFcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T00:27:17.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateProduct.cs [Design]",
+              "DocumentMoniker": "D:\\VISUALCODE\\QL_BanHang\\CreateProduct.cs",
+              "RelativeDocumentMoniker": "CreateProduct.cs",
+              "ToolTip": "D:\\VISUALCODE\\QL_BanHang\\CreateProduct.cs [Design]",
+              "RelativeToolTip": "CreateProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T00:26:35.876Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateCatalog.cs [Design]",
+              "DocumentMoniker": "D:\\VISUALCODE\\QL_BanHang\\CreateCatalog.cs",
+              "RelativeDocumentMoniker": "CreateCatalog.cs",
+              "ToolTip": "D:\\VISUALCODE\\QL_BanHang\\CreateCatalog.cs [Design]",
+              "RelativeToolTip": "CreateCatalog.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T00:25:59.012Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminPage.cs [Design]",
+              "DocumentMoniker": "D:\\VISUALCODE\\QL_BanHang\\AdminPage.cs",
+              "RelativeDocumentMoniker": "AdminPage.cs",
+              "ToolTip": "D:\\VISUALCODE\\QL_BanHang\\AdminPage.cs [Design]",
+              "RelativeToolTip": "AdminPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T00:24:17.966Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
